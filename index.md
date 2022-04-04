@@ -14,7 +14,7 @@ Financial Engineering Master's Candidate and incoming Research Analyst at Millle
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
+_**[Natural language processing 10-Ks to identify risks](analysis.html)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
