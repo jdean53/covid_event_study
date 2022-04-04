@@ -1,6 +1,6 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me!
+Financial Engineering Master's Candidate and incoming Research Analyst at Milllennium.  My studies are focusted in quantitative risk and I have been conducting research in systematic sports trading.
 
 <!-- Upload your own photo and change the path -->
 
