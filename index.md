@@ -22,21 +22,7 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Current Project (Work-in-Progress)](https://jdean53.github.io/px_lazy/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -44,15 +30,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+This June, I will beginning working as a quantitative research analyst for a fixed income team at Millennium Management, a hedge fund of funds.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I generally enjoy playing strategy games like Settlers of Catan or card games like Euchre, Bridge, and Hearts.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
